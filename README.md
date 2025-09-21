@@ -10,7 +10,7 @@ Este es un proyecto simple para organizar un sorteo de **Amigo Secreto** 🎉.
 ## 🖼️ Vista previa  
 Aquí algunas capturas de pantalla del proyecto:  
 
-!assets/Captura de pantalla (2198).png  
+![Añadir amigo]assets/Captura de pantalla (2198).png  
 *Ejemplo: Añadiendo nombres de amigos*  
 
 ![📸 Sorteo realizado](ruta/a/tu_captura2.png)  
