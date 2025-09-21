@@ -21,9 +21,6 @@ Aquí algunas imágenes referenciales del proyecto:
 - CSS  
 - JavaScript  
 
-## 🤝 Contribuir  
-¡Siente la libertad de hacer un **fork** y enviar un **pull request**! 💡  
-
 ---
 ⭐ **Si te gusta este proyecto, dale una estrella en GitHub** ⭐
 
