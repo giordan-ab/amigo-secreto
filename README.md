@@ -13,7 +13,7 @@ Aquí algunas capturas de pantalla del proyecto:
 ![📸 Añadir amigo](https://github.com/giordan-ab/amigo-secreto/blob/main/assets/Captura%20de%20pantalla%20(2198).png)  
 Añadiendo nombres de amigos  
 
-![📸 Sorteo realizado](ruta/a/tu_captura2.png)  
+![📸 Sorteo realizado](https://github.com/giordan-ab/amigo-secreto/blob/main/assets/Captura%20de%20pantalla%202025-09-21%20140234.jpg)
 *Ejemplo: Resultado del sorteo*  
 
 ## 🛠️ Tecnologías usadas  
