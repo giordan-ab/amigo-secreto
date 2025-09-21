@@ -8,7 +8,7 @@ Este es un proyecto simple para organizar un sorteo de **Amigo Secreto** 🎉.
 - 📝 Mostrar el resultado en pantalla
 
 ## 🖼️ Vista previa  
-Aquí algunas capturas de pantalla del proyecto:  
+Aquí algunas imágenes referenciales del proyecto:  
 
 ![📸 Añadir amigo](https://github.com/giordan-ab/amigo-secreto/blob/main/assets/Captura%20de%20pantalla%20(2198).png)  
 *Añadiendo nombres de amigos*  
